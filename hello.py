@@ -1,3 +1,6 @@
-!#/usr/bin/python
+#!/usr/bin/python
 
-print "Hello World of Git!"
+for i in range(3):
+    print "Hello World of Git!"
+
+#print len(argv)
